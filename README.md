@@ -64,11 +64,11 @@ O projeto é uma página Web para divulgar os produtos da Padaria Plus. Não é 
     |
     |   |- div ( 2ª seção -  SOBRE)
     |       |-  h1
-    |       |-  h2
+    |       |-  h2, span
     |       |-  img
     |
     |   |- div ( 3ª seção - PRODUTOS)
-    |       |- h3
+    |       |- h3, span
     |       |- h4
     |       |- p
     |       |- img
